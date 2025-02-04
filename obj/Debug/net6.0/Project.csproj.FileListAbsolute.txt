@@ -12,3 +12,11 @@ C:\Users\Arin\Desktop\Programing\Programing\Project\obj\Debug\net6.0\refint\Proj
 C:\Users\Arin\Desktop\Programing\Programing\Project\obj\Debug\net6.0\Project.pdb
 C:\Users\Arin\Desktop\Programing\Programing\Project\obj\Debug\net6.0\Project.genruntimeconfig.cache
 C:\Users\Arin\Desktop\Programing\Programing\Project\obj\Debug\net6.0\ref\Project.dll
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.AssemblyInfoInputs.cache
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.AssemblyInfo.cs
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.sourcelink.json
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.dll
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\refint\Project.dll
+C:\Users\Arin\Desktop\Programing\Programing\Project\Koo\obj\Debug\net6.0\Project.pdb
